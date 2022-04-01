@@ -1,1 +1,1 @@
-# Step-one
+#Handwritten Digit Recognition on MNIST dataset 
