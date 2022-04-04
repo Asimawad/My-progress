@@ -1,5 +1,2 @@
 # Mini projects i've done during online courses
- 1- Titanic 
- 2- House Price predictions 
- 3-911 Calls
- 4-
+in this Repo i want to document my learning journey by uploading the interesting projects i have done (':
