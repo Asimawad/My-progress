@@ -1,2 +1,5 @@
-# Mini projects i've done during online courses
-in this Repo i want to document my learning journey by uploading the interesting projects i have done (':
+## Mini projects i've done during online courses
+
+# i want to document my learning journey 
+uploading the interesting projects i have done 
+,some of them are boring but i'll upload everything (':
