@@ -1,4 +1,4 @@
-#In this notebook, we're going to analyse the famous Titanic dataset from Kaggle. The dataset is meant for supervised machine learning, but we're only going to do some exploratory analysis at this stage.
+# In this notebook, I'll be going to analyse the famous Titanic dataset from Kaggle. The dataset is meant for supervised machine learning.
 
 We'll try to answer the following questions:
 
@@ -7,3 +7,5 @@ What deck were the passengers on and how does that relate to their class?
 Where did the passengers come from?
 Who was alone and who was with family?
 What factors helped someone survive the sinking?
+
+# Also using logistic Regression i'll build a model for it
