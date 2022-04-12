@@ -1,5 +1,5 @@
 # 911 Calls Capstone Project - Solutions
-For this capstone project we will be analyzing some 911 call data from Kaggle. The data contains the following fields:
+For this project I will be analyzing some 911 call data from Kaggle. The data contains the following fields:
 
 lat : String variable, Latitude
 
